@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+</keymap>
